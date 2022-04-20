@@ -42,18 +42,29 @@ select * from departments;
 
 Create Table Titles (
 	emp_no INT NOT NULL,
-	title INT NOT NULL,
+	title VARCHAR NOT NULL,
 	from_date DATE NOT NULL,
 	to_date DATE NOT NULL,
 	Foreign Key (emp_no) References employees (emp_no),
-	Primary Key (emp_no)
+	Primary Key (emp_no, title, from_date)
 );
 
 Create Table Dept_Emp (
-	dept_no INT NOT NULL,
-	emp_no VARCHAR NOT NULL,
+	emp_no INT NOT NULL,
+	dept_no VARCHAR NOT NULL,
 	from_date DATE NOT NULL,
 	to_date DATE NOT NULL,
-	Foreign Key (emp_no) References departments (dept_no),
-	Primary Key (dept_no)
-); 
+	Foreign Key (dept_no) References departments (dept_no),
+	Foreign Key (emp_no) References employees (emp_no),
+	Primary Key (dept_no, emp_no)
+);
+
+
+
+SELECT * FROM titles; --completed
+SELECT * FROM dept_emp; -- completed
+SELECT * FROM salaries; -- completed
+SELECT * FROM departments; --completed
+SELECT * FROM employees; --completed
+SELECT * FROM dept_manager; --completed 
+
