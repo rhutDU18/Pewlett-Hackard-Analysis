@@ -12,6 +12,9 @@ The Pewlett-Hackard-Analysis focused on building multiple queries using in house
 2.  Pewlett-Hackard has 133,776 current employees who are of retirement age and will be retiring soon. Managers need to work alongside HR to decide how to most effectively hire and promote employees and whether that means will be inhouse or outsourcing. 
  
 ![plot](https://github.com/rhutDU18/Pewlett-Hackard-Analysis/blob/main/Pewlett-Hackard-Analysis%20Folder/Queries/Mentorship_Eligibility.png)
+
+
+
 3. The number of employees born in the year 1965 who are qualified for mentorship eligibility number at 1,549. L&D programs should be focused on specific departments that will lose the most amount of senior talent and experience such as Pewlett-Hackards senior engineering department which may see reductions or delays in meeting product supply. 
 
 4. The most affected departments will be the engineers and senior enginneers with a total of 35,174 workers retiring which represents a little under 50% of currently retiring Pewlett-Hackard workforce.  Investments should focus most of the upcoming workforce training on developing engineers to Pewlett-Hackards standards to not jeapordize TQM reductions.   
