@@ -5,7 +5,7 @@ The Pewlett-Hackard-Analysis focused on building multiple queries using in house
 
 
 ## Results 
-![plot](Pewlett-Hackard-Analysis Folder/Queries/Retiring_titles.png)
+![plot](https://github.com/rhutDU18/Pewlett-Hackard-Analysis/blob/main/Pewlett-Hackard-Analysis%20Folder/Queries/Retiring_titles.png)
 
 1. Of the 72,458 employees retiring, 50,842 consitute either senior engineers or senior staff.  Pewlett-Hackard should consider investing in more L&D programs to help aid current employees eligible for mentorship in training employees to take over senior roles. 
  
