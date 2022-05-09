@@ -23,6 +23,14 @@ The Pewlett-Hackard-Analysis focused on building multiple queries using in house
 
 ### Summary 
 
+The silver tsunami also referred to as the "Great Retirement" has the potential to severely disrupt workflow operations specifically in Pewlett Hackards engineering departments as more than 50,000 out of the 72,458 current employees approaching retirement occupy senior staff or senior engineering roles. Pewlett Hackard has 9 major departments and from this query we can see which department titles will be impacted the most.  In the short term a total 61,318 roles will need to be filled while another 72,458 roles will need replacement. The combined amout of retiring Pewlett-Hackard employees is 133,776.
+
+![plot](https://github.com/rhutDU18/Pewlett-Hackard-Analysis/blob/main/Pewlett-Hackard-Analysis%20Folder/Queries/Total_Retirement_Titles%20.png)
+
+![plot](https://github.com/rhutDU18/Pewlett-Hackard-Analysis/blob/main/Pewlett-Hackard-Analysis%20Folder/Queries/Employees%20of%20retirement%20age%20.png)
+
+There will be only 1,549 qualified employees who are eligible for mentorship who will responsible for training 61,318 imcoming Pewlett-Hackard employees.  This number will increase to 133,776 employees after the last wave of baby boomers retire.  This suggests that the amount of qualified employees may need additional support to help develop the skills of all 133,776 roles that will eventually need to be filled.
+
 
 
 
