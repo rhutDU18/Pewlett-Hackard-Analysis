@@ -1,4 +1,4 @@
-# Pewlett-Hackard-Analysis-Summary
+# Pewlett-Hackard-Analysis-Overview
 
 The Pewlett-Hackard-Analysis focused on building multiple queries using in house information from the employee database to help show senior department managers which employees retiring were born between the dates of 1952-01-01 to 1955-12-31 and also their most recent job title.  Workers employeed at Pewlett-Hackard for a significant amount of time often hold multiple titles throughout their careers which was factored into my analysis by finding the current employees within our designated age brackets most recent job title.  Breaking down each query into smaller tables help communicate to relevant Pewlett-Hackard stakeholders which departments are losing their most senior workers.  Another important part of the overall analysis was creating a query to find out which employees born between the dates of 1965-01-01 and 1965-12-31 were eligible for mentorship.   
 
@@ -29,9 +29,9 @@ The silver tsunami also referred to as the "Great Retirement" has the potential 
 
 ![plot](https://github.com/rhutDU18/Pewlett-Hackard-Analysis/blob/main/Pewlett-Hackard-Analysis%20Folder/Queries/Employees%20of%20retirement%20age%20.png)
 
-There will be only 1,549 qualified employees who are eligible for mentorship who will responsible for training 61,318 imcoming Pewlett-Hackard employees.  This number will increase to 133,776 employees after the last wave of baby boomers retire.  This suggests that the amount of qualified employees may need additional support to help develop the skills of all 133,776 roles that will eventually need to be filled.
+There will be only 1,549 qualified employees who are eligible for mentorship who will responsible for training 61,318 imcoming Pewlett-Hackard employees.  This number will increase to 133,776 employees after the last wave of baby boomers retire.  This suggests that the amount of qualified employees may need additional support to help develop the skills of all 133,776 roles that will eventually need to be filled.  The unique titles table helps show 
 
-
+![plot](https://github.com/rhutDU18/Pewlett-Hackard-Analysis/blob/main/Pewlett-Hackard-Analysis%20Folder/Queries/Unique%20titles%20.png)
 
 
 
